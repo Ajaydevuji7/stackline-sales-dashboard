@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stackline-sales-dashboard/static/css/main.f06a9b6e.css",
-    "main.js": "/stackline-sales-dashboard/static/js/main.78dde1b9.js",
+    "main.js": "/stackline-sales-dashboard/static/js/main.e60f7de6.js",
     "static/media/stackline-logo.svg": "/stackline-sales-dashboard/static/media/stackline-logo.5935081bd899ecfe02395699e768f84e.svg",
     "index.html": "/stackline-sales-dashboard/index.html",
     "main.f06a9b6e.css.map": "/stackline-sales-dashboard/static/css/main.f06a9b6e.css.map",
-    "main.78dde1b9.js.map": "/stackline-sales-dashboard/static/js/main.78dde1b9.js.map"
+    "main.e60f7de6.js.map": "/stackline-sales-dashboard/static/js/main.e60f7de6.js.map"
   },
   "entrypoints": [
     "static/css/main.f06a9b6e.css",
-    "static/js/main.78dde1b9.js"
+    "static/js/main.e60f7de6.js"
   ]
 }
