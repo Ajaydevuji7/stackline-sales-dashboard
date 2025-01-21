@@ -14,7 +14,7 @@ const initialState: ProductState = {
 };
 
 export const fetchProductData = createAsyncThunk('product/fetch', async () => {
-  const response = await fetch('/stackline_frontend_assessment_data_2021.json');
+  const response = await fetch(`${process.env.PUBLIC_URL}/stackline_frontend_assessment_data_2021.json`);;
   if (!response.ok) throw new Error('Failed to fetch Product data');
   return (await response.json()) as Product[];
 });
